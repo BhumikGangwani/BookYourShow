@@ -1,0 +1,1 @@
+This project makes use of NetBeans IDE and MySql to create a ticket booking system which enables the user to select the movie they want to watch, select seats, book the tickets, and get a receipt of their booking by entering their login information.
